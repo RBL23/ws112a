@@ -1,6 +1,6 @@
 import { Application, Router } from "https://deno.land/x/oak/mod.ts";
 
-const API_KEY = "YOUR_OPENWEATHERMAP_API_KEY";
+const API_KEY = "6cf84a009a047a1b434e77af8c7c26e0";
 const baseURL = "http://api.openweathermap.org/data/2.5/weather";
 
 const router = new Router();
